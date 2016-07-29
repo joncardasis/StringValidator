@@ -51,3 +51,5 @@ if ipAddressValidator.validateString(ipAddress) {
 }
 ```
 
+## License
+StringValidator is available under the MIT license. See the LICENSE file for more info.
